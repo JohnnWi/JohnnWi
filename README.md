@@ -7,4 +7,5 @@ In general I like this technology and every now and then I try to create codes t
 - ₿ Passionate about economics, blockchain and IT
 - 💻 I’m currently learning Solidity and Python
 - 🔥 I spend hours browsing explorers looking for nice information or tracking down scammers who commit crimes
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PohnnWi)](https://github.com/anuraghazra/github-readme-stats)
