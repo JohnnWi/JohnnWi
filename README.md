@@ -9,3 +9,5 @@ In general I like this technology and every now and then I try to create codes t
 - 🔥 I spend hours browsing explorers looking for nice information or tracking down scammers who commit crimes
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/JohnnWi/github-profile-trophy)
+
+[![trophy]https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
