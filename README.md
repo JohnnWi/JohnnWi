@@ -8,4 +8,4 @@ In general I like this technology and every now and then I try to create codes t
 - 💻 I’m currently learning Solidity and Python
 - 🔥 I spend hours browsing explorers looking for nice information or tracking down scammers who commit crimes
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/?username=JohnnWi-ma&theme=onedark
