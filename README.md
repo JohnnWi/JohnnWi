@@ -1,4 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=JohnnWi)](https://github.com/JohnnWi/github-profile-trophy)
+<a href="https://github.com/JohnnWi/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/JohnnWi/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=JohnnWi&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 
 ## Hi there 👋🇮🇹
 Hi everyone, I'm a young guy who loves technology and loves discovering new technologies in the blockchain field. In particular I am focusing on modular blockchains and layerzero technology.
