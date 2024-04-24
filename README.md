@@ -17,3 +17,4 @@ In general I like this technology and every now and then I try to create codes t
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JohnnWi&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnWi&layout=compact" />
 </div>
+https://github-readme-stats.vercel.app/api?username=JohnnWi&count_private=true&include_all_commits=true
