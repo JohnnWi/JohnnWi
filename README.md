@@ -14,12 +14,6 @@ In general I like this technology and every now and then I try to create codes t
 - 🔥 I spend hours browsing explorers looking for nice information or tracking down scammers who commit crimes
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnWi&layout=compact" />
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnWi&show_icons=true)
-
-<div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JohnnWi&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnWi&layout=compact" />
 </div>
