@@ -3,7 +3,7 @@
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=JohnnWi&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
-## Hi there 👋🇮🇹
+## Hi there! 👋🇮🇹
 Hi everyone, I'm a young guy who loves technology and loves discovering new technologies in the blockchain field. In particular I am focusing on modular blockchains and layerzero technology.
 
 In general I like this technology and every now and then I try to create codes that can help me every day
